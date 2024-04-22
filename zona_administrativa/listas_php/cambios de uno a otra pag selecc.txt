@@ -1,0 +1,40 @@
+-- 287 crear archivo de lista y cambiar nombre
+
+Linea 296 titulo y font-awesome
+
+
+cambiar,  id,  nombre, y nombre tabla o plantilla
+
+
+
+
+86 la seleccion de plantilla y el id
+92 " "
+
+110  nombre del registro
+
+160  plantilla y nombre
+
+162 id del registro
+
+218 id del registro, plantilla  y nombre del registro
+
+242 plantilla y nombre del reg.
+
+381   el nombre del registro
+
+387  el id del registro
+
+398 el id del registro
+
+422 el nombre del registro
+
+434 el id del registro
+
+455 el id del registro
+
+465 id del registro
+
+477 nombre del registro
+
+484 id del registro
